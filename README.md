@@ -37,8 +37,8 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-909.svg?style=for-the-badge&logo=linkedin&logoColor=%23007ACC" >
 </a>
 
-<a href="https://www.linkedin.com/in/pedro-henrique-125a49184/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/behance-909.svg?style=for-the-badge&logo=Behance&logoColor=%23007ACC">
+<a href="[https://www.linkedin.com/in/pedro-henrique-125a49184/](https://www.behance.net/pedrohenrique556)">
+        <img alt="Behance" src="https://img.shields.io/badge/behance-909.svg?style=for-the-badge&logo=Behance&logoColor=%23007ACC">
     </a>
 
 <h2> 🐍 Snake Animation </h2>
