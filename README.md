@@ -7,7 +7,7 @@
 
 <p align="justify">
   <b>
-    My name is Pedro Henrique, i'm Graphic Designer, Social Media and DEV Junior. I recently finished the systems development course, and i want continue learning
+    My name is Pedro Henrique, i'm Graphic Designer and ocial Media. I recently finished the systems development course, and i want continue learning
   </b>
 </p>
 
