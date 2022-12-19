@@ -42,6 +42,6 @@
     </a>
 
 <h2> 🐍 Snake Animation </h2>
-<img alt="Snake Animation" src="https://github.com/henr1que-ph/henr1que-ph/blob/output/github-contribution-grid-snake.svg" />
+<img alt="Snake Animation" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg" />
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
