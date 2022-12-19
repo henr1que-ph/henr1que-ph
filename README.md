@@ -41,7 +41,3 @@
         <img alt="Behance" src="https://img.shields.io/badge/behance-909.svg?style=for-the-badge&logo=Behance&logoColor=%23007ACC">
     </a>
 
-<h2> 🐍 Snake Animation </h2>
-<img alt="Snake Animation" src="https://github.com/henr1que-ph/henr1que-ph/blob/main/github-contribution-grid-snake.svg" />
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
