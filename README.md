@@ -11,7 +11,7 @@
   </b>
 </p>
 
-<h2> 💻 Tech Stack </h2>
+<h2> 💻 Skills </h2>
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-909.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-909.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC" />
